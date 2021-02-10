@@ -1,0 +1,20 @@
+Last login: Sun Feb  7 19:58:37 on ttys000
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+(base) Annas-MacBook-Pro:~ annafaliero$ cd Desktop/"Clever Take Home Project - Anna Faliero"
+(base) Annas-MacBook-Pro:Clever Take Home Project - Anna Faliero annafaliero$ python scheduler.py math.json
+Geometry
+Algebra 1
+Algebra 2
+Pre Calculus
+(base) Annas-MacBook-Pro:Clever Take Home Project - Anna Faliero annafaliero$ python scheduler.py physics.json
+Scientific Thinking
+Intro to Physics
+Calculus
+Differential Equations
+Relativity
+(base) Annas-MacBook-Pro:Clever Take Home Project - Anna Faliero annafaliero$ python scheduler.py falseorder.json
+(base) Annas-MacBook-Pro:Clever Take Home Project - Anna Faliero annafaliero$ 
+
