@@ -1,7 +1,4 @@
-# Scheduler
-# Author: Anna Faliero 
-
-# Algorithm 
+# Scheduler Algorithm 
 * I chose a graph-based approach using depth first search to solve this problem. Each class is a vertex, and the relationship between classes and prerequisites are edges. The program considers all possible paths originating from the first visited node before moving on to other nodes. This way, all nodes stemming from this first node have the first node as a prerequisite. 
 
 # scheduler and parse_json
