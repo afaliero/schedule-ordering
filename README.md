@@ -1,5 +1,5 @@
-# Scheduler: This program takes in a JSON file containing class names and their respective prerequisites. It outputs a valid order in which to take the classes.
-# Author: Anna Faliero 
+Scheduler: This program takes in a JSON file containing class names and their respective prerequisites. It outputs a valid order in which to take the classes.
+Author: Anna Faliero 
 
 # Algorithm 
 * I chose a graph-based approach using depth first search to solve this problem. Each class is a vertex, and the relationship between classes and prerequisites are edges. The program considers all possible paths originating from the first visited node before moving on to other nodes. This way, all nodes stemming from this first node have the first node as a prerequisite. 
