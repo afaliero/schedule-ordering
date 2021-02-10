@@ -1,4 +1,4 @@
-Scheduler: This program takes in a JSON file containing class names and their respective prerequisites. It outputs a valid order in which to take the classes.
+#Scheduler: This program takes in a JSON file containing class names and their respective prerequisites. It outputs a valid order in which to take the classes.
 Author: Anna Faliero 
 
 # Algorithm 
